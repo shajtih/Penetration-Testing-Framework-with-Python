@@ -8,3 +8,5 @@ Features
 4. Collect Email/phones/URLs from a given URL. (OSINT)
 5. vulnerability scanner on given IP
 6. display running services on a given host
+
+Run As : python3 automation.py
